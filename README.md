@@ -106,18 +106,25 @@ const shinjuu = {
 
 ## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=450" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fsocietyshinjuu&theme=radical&hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fsocietyshinjuu&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fsocietyshinjuu&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fsocietyshinjuu&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 
 </div>
 
