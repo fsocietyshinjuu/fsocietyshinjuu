@@ -62,32 +62,14 @@ const shinjuu = {
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/fsocietyshinjuu/MaKT">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=MaKT&theme=radical&hide_border=true&description_lines_count=3" alt="MaKT" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/fsocietyshinjuu/vaultx">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=vaultx&theme=radical&hide_border=true&description_lines_count=3" alt="vaultx" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/fsocietyshinjuu/Hoardr">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Hoardr&theme=radical&hide_border=true&description_lines_count=3" alt="Hoardr" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/fsocietyshinjuu/Mir4-Local">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Mir4-Local&theme=radical&hide_border=true&description_lines_count=3" alt="Mir4-Local" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/fsocietyshinjuu/MaKT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=MaKT&theme=radical&hide_border=true&description_lines_count=3" alt="MaKT" /></a>
+<a href="https://github.com/fsocietyshinjuu/vaultx"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=vaultx&theme=radical&hide_border=true&description_lines_count=3" alt="vaultx" /></a>
+<a href="https://github.com/fsocietyshinjuu/Hoardr"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Hoardr&theme=radical&hide_border=true&description_lines_count=3" alt="Hoardr" /></a>
+<a href="https://github.com/fsocietyshinjuu/Mir4-Local"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Mir4-Local&theme=radical&hide_border=true&description_lines_count=3" alt="Mir4-Local" /></a>
+
+</div>
 
 <details>
 <summary><b>📂 Project details (click to open)</b></summary>
@@ -106,23 +88,16 @@ const shinjuu = {
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=450&line_height=20" alt="GitHub stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fsocietyshinjuu&theme=radical&hide_border=true" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=450&line_height=20" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Top languages" />
+
+<br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fsocietyshinjuu&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fsocietyshinjuu&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 
