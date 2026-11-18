@@ -109,10 +109,10 @@ const shinjuu = {
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=450" alt="GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fsocietyshinjuu&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=450&line_height=20" alt="GitHub stats" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Top languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyshinjuu&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=450" alt="Top languages" />
     </td>
   </tr>
   <tr>
