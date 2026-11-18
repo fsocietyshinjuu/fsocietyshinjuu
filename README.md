@@ -62,22 +62,32 @@ const shinjuu = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/fsocietyshinjuu/MaKT">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=MaKT&theme=radical&hide_border=true" alt="MaKT" />
-</a>
-<a href="https://github.com/fsocietyshinjuu/vaultx">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=vaultx&theme=radical&hide_border=true" alt="vaultx" />
-</a>
-<a href="https://github.com/fsocietyshinjuu/Hoardr">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Hoardr&theme=radical&hide_border=true" alt="Hoardr" />
-</a>
-<a href="https://github.com/fsocietyshinjuu/Mir4-Local">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Mir4-Local&theme=radical&hide_border=true" alt="Mir4-Local" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/fsocietyshinjuu/MaKT">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=MaKT&theme=radical&hide_border=true&description_lines_count=3" alt="MaKT" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/fsocietyshinjuu/vaultx">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=vaultx&theme=radical&hide_border=true&description_lines_count=3" alt="vaultx" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/fsocietyshinjuu/Hoardr">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Hoardr&theme=radical&hide_border=true&description_lines_count=3" alt="Hoardr" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/fsocietyshinjuu/Mir4-Local">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsocietyshinjuu&repo=Mir4-Local&theme=radical&hide_border=true&description_lines_count=3" alt="Mir4-Local" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>📂 Project details (click to open)</b></summary>
